@@ -9,7 +9,8 @@
 .history
 .svn/
 migrate_working_dir/
-
+!vip.log
+node_packs/
 # IntelliJ related
 *.iml
 *.ipr
